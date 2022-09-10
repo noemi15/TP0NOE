@@ -1,0 +1,206 @@
+[INFO] 03:11:23:591 Cliente/(5236:5236): Hola! Soy un log
+[INFO] 03:32:36:573 Cliente/(5512:5512): Hola! Soy un log
+[INFO] 03:37:52:445 Cliente/(5762:5762): Hola! Soy un log
+[INFO] 03:37:52:448 Cliente/(5762:5762): 127.0.0.1
+[INFO] 03:37:52:448 Cliente/(5762:5762): 4444
+[INFO] 03:37:52:448 Cliente/(5762:5762): f&è\ÜU
+[INFO] 03:39:16:761 Cliente/(5851:5851): Hola! Soy un log
+[INFO] 03:39:16:763 Cliente/(5851:5851): 127.0.0.1
+[INFO] 03:39:16:764 Cliente/(5851:5851): 4444
+[INFO] 03:39:16:765 Cliente/(5851:5851): valor
+[INFO] 03:44:15:069 Cliente/(6020:6020): Hola! Soy un log
+[INFO] 03:44:15:072 Cliente/(6020:6020): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 04:19:55:832 Cliente/(8601:8601): Hola! Soy un log
+[INFO] 04:19:55:833 Cliente/(8601:8601): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 14:37:04:576 Cliente/(1877:1877): Hola! Soy un log
+[INFO] 14:37:49:879 Cliente/(1877:1877): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 15:27:55:155 Cliente/(2536:2536): Hola! Soy un log
+[INFO] 15:27:55:157 Cliente/(2536:2536): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 15:29:56:478 Cliente/(2628:2628): Hola! Soy un log
+[INFO] 15:29:56:478 Cliente/(2628:2628): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 15:33:24:189 Cliente/(2671:2671): Hola! Soy un log
+[INFO] 15:33:24:191 Cliente/(2671:2671): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 20:38:01:593 Cliente/(3723:3723): Hola! Soy un log
+[INFO] 20:38:01:594 Cliente/(3723:3723): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 20:38:52:573 Cliente/(3723:3723): No se pudo conectar al servidor
+[INFO] 21:06:06:632 Cliente/(4350:4350): Hola! Soy un log
+[INFO] 21:06:06:636 Cliente/(4350:4350): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:06:28:532 Cliente/(4350:4350): No se pudo conectar al servidor
+[INFO] 21:07:27:834 Cliente/(4388:4388): Hola! Soy un log
+[INFO] 21:07:27:835 Cliente/(4388:4388): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:07:41:147 Cliente/(4388:4388): No se pudo conectar al servidor
+[INFO] 21:32:15:297 Cliente/(4883:4883): Hola! Soy un log
+[INFO] 21:32:15:298 Cliente/(4883:4883): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:36:01:941 Cliente/(4989:4989): Hola! Soy un log
+[INFO] 21:36:01:945 Cliente/(4989:4989): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:39:42:066 Cliente/(5264:5264): Hola! Soy un log
+[INFO] 21:39:42:066 Cliente/(5264:5264): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:41:59:317 Cliente/(5315:5315): Hola! Soy un log
+[INFO] 21:41:59:317 Cliente/(5315:5315): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:42:42:699 Cliente/(5403:5403): Hola! Soy un log
+[INFO] 21:42:42:701 Cliente/(5403:5403): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:42:47:864 Cliente/(5403:5403): No se pudo conectar al servidor
+[INFO] 21:43:32:463 Cliente/(5426:5426): Hola! Soy un log
+[INFO] 21:43:32:464 Cliente/(5426:5426): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:46:11:098 Cliente/(5576:5576): Hola! Soy un log
+[INFO] 21:46:11:107 Cliente/(5576:5576): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:46:15:233 Cliente/(5576:5576): Conexion exitosa al servidor
+[INFO] 22:00:33:755 Cliente/(5858:5858): Hola! Soy un log
+[INFO] 22:00:33:756 Cliente/(5858:5858): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:56:11:377 Cliente/(6681:6681): Hola! Soy un log
+[INFO] 22:56:11:379 Cliente/(6681:6681): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:56:21:082 Cliente/(6681:6681): Conexion exitosa al servidor
+[INFO] 22:58:20:279 Cliente/(6753:6753): Hola! Soy un log
+[INFO] 22:58:20:280 Cliente/(6753:6753): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:58:26:201 Cliente/(6753:6753): No se pudo conectar al servidor
+[INFO] 21:29:02:416 Cliente/(1853:1853): Hola! Soy un log
+[INFO] 21:29:02:416 Cliente/(1853:1853): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:29:13:487 Cliente/(1853:1853): Conexion exitosa al servidor
+[INFO] 21:29:13:487 Cliente/(1853:1853): Se envio el codigo OP, (null)/n
+[INFO] 21:31:44:587 Cliente/(1953:1953): Hola! Soy un log
+[INFO] 21:31:44:592 Cliente/(1953:1953): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:31:52:960 Cliente/(1953:1953): Conexion exitosa al servidor
+[INFO] 21:31:52:960 Cliente/(1953:1953): Se envio el codigo OP, (null)/n
+[INFO] 21:32:19:825 Cliente/(2006:2006): Hola! Soy un log
+[INFO] 21:32:19:826 Cliente/(2006:2006): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:32:25:820 Cliente/(2006:2006): Conexion exitosa al servidor
+[INFO] 21:32:25:820 Cliente/(2006:2006): Se envio el codigo OP, (null)/n
+[INFO] 21:34:29:021 Cliente/(2073:2073): Hola! Soy un log
+[INFO] 21:34:29:024 Cliente/(2073:2073): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:34:37:304 Cliente/(2073:2073): Conexion exitosa al servidor
+[INFO] 21:34:37:304 Cliente/(2073:2073): Se envio el codigo OP, 0/n
+[INFO] 21:36:32:893 Cliente/(2191:2191): Hola! Soy un log
+[INFO] 21:36:32:894 Cliente/(2191:2191): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:36:38:471 Cliente/(2191:2191): Conexion exitosa al servidor
+[INFO] 21:36:38:471 Cliente/(2191:2191): Se envio el codigo OP, 0/n
+[INFO] 21:40:31:942 Cliente/(2291:2291): Hola! Soy un log
+[INFO] 21:40:31:945 Cliente/(2291:2291): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:40:40:625 Cliente/(2291:2291): Conexion exitosa al servidor
+[INFO] 21:40:40:625 Cliente/(2291:2291): Se envio el codigo OP, 0/n
+[INFO] 21:44:11:513 Cliente/(2429:2429): Hola! Soy un log
+[INFO] 21:44:11:519 Cliente/(2429:2429): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:44:11:520 Cliente/(2429:2429): Conexion exitosa al servidor
+[INFO] 21:44:11:520 Cliente/(2429:2429): Se envio el codigo OP, 0/n
+[INFO] 21:47:21:453 Cliente/(2524:2524): Hola! Soy un log
+[INFO] 21:47:21:456 Cliente/(2524:2524): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:47:21:456 Cliente/(2524:2524): Conexion exitosa al servidor
+[INFO] 21:47:21:457 Cliente/(2524:2524): Se envio el codigo OP, 0/n
+[INFO] 21:49:03:109 Cliente/(2594:2594): Hola! Soy un log
+[INFO] 21:49:03:113 Cliente/(2594:2594): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:49:03:114 Cliente/(2594:2594): Conexion exitosa al servidor
+[INFO] 21:49:03:114 Cliente/(2594:2594): Se envio el codigo OP, 0/n
+[INFO] 21:51:42:770 Cliente/(2671:2671): Hola! Soy un log
+[INFO] 21:51:42:771 Cliente/(2671:2671): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:51:42:772 Cliente/(2671:2671): Error Handshake
+[INFO] 21:53:34:284 Cliente/(2755:2755): Hola! Soy un log
+[INFO] 21:53:34:289 Cliente/(2755:2755): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:53:34:289 Cliente/(2755:2755): Error Handshake
+[INFO] 21:54:36:290 Cliente/(2814:2814): Hola! Soy un log
+[INFO] 21:54:36:291 Cliente/(2814:2814): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:54:36:292 Cliente/(2814:2814): Error Handshake
+[INFO] 21:56:33:553 Cliente/(2901:2901): Hola! Soy un log
+[INFO] 21:56:33:554 Cliente/(2901:2901): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 21:56:33:555 Cliente/(2901:2901): Error Handshake
+[INFO] 22:12:22:095 Cliente/(4086:4086): Hola! Soy un log
+[INFO] 22:12:22:100 Cliente/(4086:4086): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:12:22:101 Cliente/(4086:4086): Error Handshake
+[INFO] 22:18:12:866 Cliente/(4588:4588): Hola! Soy un log
+[INFO] 22:18:12:868 Cliente/(4588:4588): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:18:17:873 Cliente/(4588:4588): Error Handshake
+[INFO] 22:23:50:887 Cliente/(4840:4840): Hola! Soy un log
+[INFO] 22:23:50:889 Cliente/(4840:4840): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:23:55:894 Cliente/(4840:4840): Error Handshake
+[INFO] 22:30:03:471 Cliente/(5185:5185): Hola! Soy un log
+[INFO] 22:30:03:477 Cliente/(5185:5185): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:30:03:478 Cliente/(5185:5185): Error Handshake
+[INFO] 22:30:10:578 Cliente/(5198:5198): Hola! Soy un log
+[INFO] 22:30:10:579 Cliente/(5198:5198): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 22:30:10:579 Cliente/(5198:5198): No se pudo conectar al servidor
+[INFO] 14:30:48:669 Cliente/(2397:2397): Hola! Soy un log
+[INFO] 14:30:48:672 Cliente/(2397:2397): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 14:30:48:672 Cliente/(2397:2397): Error Handshake
+[INFO] 15:16:48:563 Cliente/(2729:2729): Hola! Soy un log
+[INFO] 15:16:48:565 Cliente/(2729:2729): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 15:16:48:566 Cliente/(2729:2729): Error Handshake
+[INFO] 15:30:43:923 Cliente/(2971:2971): Hola! Soy un log
+[INFO] 15:30:43:925 Cliente/(2971:2971): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 15:30:43:926 Cliente/(2971:2971): Error Handshake
+[INFO] 15:34:45:396 Cliente/(3064:3064): Hola! Soy un log
+[INFO] 15:34:45:397 Cliente/(3064:3064): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 15:34:45:398 Cliente/(3064:3064): Error Handshake
+[INFO] 16:09:08:261 Cliente/(3244:3244): Hola! Soy un log
+[INFO] 16:09:08:262 Cliente/(3244:3244): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:09:08:264 Cliente/(3244:3244): Error Handshake
+[INFO] 16:37:07:803 Cliente/(3419:3419): Hola! Soy un log
+[INFO] 16:37:07:806 Cliente/(3419:3419): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:37:07:807 Cliente/(3419:3419): Error Handshake
+[INFO] 16:39:34:856 Cliente/(3456:3456): Hola! Soy un log
+[INFO] 16:39:34:857 Cliente/(3456:3456): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:40:40:343 Cliente/(3504:3504): Hola! Soy un log
+[INFO] 16:40:40:349 Cliente/(3504:3504): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:42:29:687 Cliente/(3583:3583): Hola! Soy un log
+[INFO] 16:42:29:693 Cliente/(3583:3583): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:44:08:567 Cliente/(3616:3616): Hola! Soy un log
+[INFO] 16:44:08:570 Cliente/(3616:3616): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:44:08:571 Cliente/(3616:3616): Error Handshake
+[INFO] 16:47:54:613 Cliente/(3733:3733): Hola! Soy un log
+[INFO] 16:47:54:614 Cliente/(3733:3733): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:49:55:146 Cliente/(3838:3838): Hola! Soy un log
+[INFO] 16:49:55:160 Cliente/(3838:3838): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:51:24:450 Cliente/(3877:3877): Hola! Soy un log
+[INFO] 16:51:24:451 Cliente/(3877:3877): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:51:24:452 Cliente/(3877:3877): Error Handshake
+[INFO] 16:57:31:869 Cliente/(3991:3991): Hola! Soy un log
+[INFO] 16:57:31:875 Cliente/(3991:3991): IP: 127.0.0.1, PUERTO: 4444, VALOR: valor
+
+[INFO] 16:57:31:878 Cliente/(3991:3991): Error Handshake
